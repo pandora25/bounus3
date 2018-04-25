@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\bounus3\bounus3\bin\Debug\bounus3.exe.config
+C:\Users\mcyal\source\repos\bounus3\bounus3\bin\Debug\bounus3.exe
+C:\Users\mcyal\source\repos\bounus3\bounus3\bin\Debug\bounus3.pdb
+C:\Users\mcyal\source\repos\bounus3\bounus3\obj\Debug\bounus3.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\bounus3\bounus3\obj\Debug\bounus3.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\bounus3\bounus3\obj\Debug\bounus3.exe
+C:\Users\mcyal\source\repos\bounus3\bounus3\obj\Debug\bounus3.pdb
